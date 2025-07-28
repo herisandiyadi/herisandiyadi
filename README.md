@@ -32,15 +32,20 @@ My goal is to build impactful applications that solve real-world problems across
 
 ## 💻 My Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herisandiyadi&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herisandiyadi&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 📚 Education & Certifications
 
-- **Flutter Expert Certification** – Dicoding, 2023
-- **Android Kotlin Fundamental** – Dicoding, 2021
-- **Project Management** – Google Coursera, 2023
+- **Flutter Expert Certification** – Dicoding, 2023  
+- **Android Kotlin Fundamental** – Dicoding, 2021  
+- **Project Management** – Google Coursera, 2023  
 - **Diploma (D3)** – Bina Sarana Informatika, 2017
 
 ---
